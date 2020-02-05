@@ -1,4 +1,1 @@
-# swift-operator-bug
-
-A description of this package.
-# swift-operator-bug
+Demonstration of `@_exported` operator bug in Swift.
